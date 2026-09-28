@@ -11,3 +11,4 @@ This repository contains my daily practice exercises as i learn C programming - 
 -Arrays
 -Conditional Logic(if/else)
 -Basic Searching(linear searching)
+-Functions(void functions, functions that return values, function prototyping,passing arrays into functions)
